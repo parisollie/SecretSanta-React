@@ -1,0 +1,44 @@
+/* Background settings */
+body {
+    background: url('./assets/background.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    color: #57d518;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Overlay for better contrast */
+.overlay {
+    background: rgba(0, 0, 0, 0.6);
+    /* Semi-transparent black overlay */
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Styling for elements */
+header {
+    margin-bottom: 2rem;
+}
+
+.pairings-section ul {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+footer {
+    margin-top: 2rem;
+    color: #ccc;
+}
+
+.btn-success {
+    font-size: 1.2rem;
+    padding: 0.75rem 1.5rem;
+}
+
+.list-group-item {
+    background: rgba(209, 214, 213, 0.8);
+    color: #000;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
