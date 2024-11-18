@@ -21,9 +21,11 @@ family excluded from the Secret Santa.
 Write a program that will choose a Secret Santa for your extended family, given these
 constraints:
 
-● A person cannot be their own Secret Santa.
-● A family member can only be paired with the same Secret Santa once every three years.
-● Immediate Family Members cannot select other members of their immediate family.
+A person cannot be their own Secret Santa.
+
+A family member can only be paired with the same Secret Santa once every three years.
+
+Immediate Family Members cannot select other members of their immediate family.
    
    
 
