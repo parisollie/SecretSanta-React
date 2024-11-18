@@ -16,7 +16,7 @@ As your extended family has grown, members have married and had children. Those 
 usually get gifts for their immediate family members, so they would like to have their immediate
 family excluded from the Secret Santa.
 
-Homework
+#Homework
 
 Write a program that will choose a Secret Santa for your extended family, given these
 constraints:
