@@ -27,6 +27,13 @@ constraints:
 
 -Immediate Family Members cannot select other members of their immediate family.
    
+* ** *****************************************************************************************************************************************
+#Installation:
+
+Step 1) You must have React installed
+Step 2) Download the modules with npm install
+Step 3) Once inside the program folder, type in the terminal: npm run dev
+4) If you want to run the tests, you must type in the terminal: npm run test
    
 
 
